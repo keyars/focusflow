@@ -22,18 +22,7 @@ It combines task planning, prioritisation, focused work sessions and progress si
 
 ## Screenshots
 
-The repository reserves `docs/screenshots/` for **real iOS/Android captures from the running application**. We do not use fabricated or third-party screenshots as if they were product captures.
-
-When captures are added, the README will expose them through these repository links:
-
-| Screen | Capture |
-|---|---|
-| Today dashboard | [Open capture](docs/screenshots/today.png) |
-| Add Task | [Open capture](docs/screenshots/add-task.png) |
-| Focus Session | [Open capture](docs/screenshots/focus-session.png) |
-| Insights | [Open capture](docs/screenshots/insights.png) |
-
-The first three screens are implemented in the current release. The Insights capture belongs to the next product feature pass, so it is intentionally not presented as an existing screen.
+Real iOS/Android screenshots will be added after the application is captured from a running simulator or physical device. Until then, this README intentionally contains **no broken or placeholder screenshot links**.
 
 ## Architecture: Feature-Oriented React Native
 
