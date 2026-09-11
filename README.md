@@ -22,15 +22,18 @@ It combines task planning, prioritisation, focused work sessions and progress si
 
 ## Screenshots
 
-> Screenshots are generated from the finished application and should be added to `docs/screenshots/` as the mobile UI stabilises. Recommended captures: Today dashboard, Add Task, Focus Session and Insights.
+The repository reserves `docs/screenshots/` for **real iOS/Android captures from the running application**. We do not use fabricated or third-party screenshots as if they were product captures.
 
-| Today | Add Task |
-|---|---|
-| `docs/screenshots/today.png` | `docs/screenshots/add-task.png` |
+Recommended capture set:
 
-| Focus Session | Insights |
+| Screen | File |
 |---|---|
-| `docs/screenshots/focus-session.png` | `docs/screenshots/insights.png` |
+| Today dashboard | `docs/screenshots/today.png` |
+| Add Task | `docs/screenshots/add-task.png` |
+| Focus Session | `docs/screenshots/focus-session.png` |
+| Insights | `docs/screenshots/insights.png` |
+
+The first three screens are implemented in the current release. The Insights capture belongs to the next product feature pass, so it is intentionally not presented as an existing screen.
 
 ## Architecture: Feature-Oriented React Native
 
