@@ -24,14 +24,14 @@ It combines task planning, prioritisation, focused work sessions and progress si
 
 The repository reserves `docs/screenshots/` for **real iOS/Android captures from the running application**. We do not use fabricated or third-party screenshots as if they were product captures.
 
-Recommended capture set:
+When captures are added, the README will expose them through these repository links:
 
-| Screen | File |
+| Screen | Capture |
 |---|---|
-| Today dashboard | `docs/screenshots/today.png` |
-| Add Task | `docs/screenshots/add-task.png` |
-| Focus Session | `docs/screenshots/focus-session.png` |
-| Insights | `docs/screenshots/insights.png` |
+| Today dashboard | [Open capture](docs/screenshots/today.png) |
+| Add Task | [Open capture](docs/screenshots/add-task.png) |
+| Focus Session | [Open capture](docs/screenshots/focus-session.png) |
+| Insights | [Open capture](docs/screenshots/insights.png) |
 
 The first three screens are implemented in the current release. The Insights capture belongs to the next product feature pass, so it is intentionally not presented as an existing screen.
 
